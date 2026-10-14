@@ -1,0 +1,6 @@
+scheme_name,category,description,eligibility,official_link,education_levels,states,min_age,max_age,max_income,categories,genders
+"DEMO - General Student Scholarship",Scholarship,"Sample record for testing","Demo only; not a real scholarship",https://scholarships.gov.in/,All,All,,,,All,All
+"DEMO - Karnataka Undergraduate Support",Scholarship,"Sample record for Karnataka undergraduate students","Demo only; not a real scholarship",https://ssp.postmatric.karnataka.gov.in/,"Undergraduate",Karnataka,17,30,500000,All,All
+"DEMO - SC Undergraduate Support",Scholarship,"Sample record for SC undergraduate students","Demo only; not a real scholarship",https://scholarships.gov.in/,"Undergraduate",All,17,30,250000,SC,All
+"DEMO - PUC Student Support",Scholarship,"Sample record for PUC students","Demo only; not a real scholarship",https://scholarships.gov.in/,"PUC / Class 11–12",All,15,25,300000,All,All
+"DEMO - Postgraduate Support",Scholarship,"Sample record for postgraduate students","Demo only; not a real scholarship",https://scholarships.gov.in/,"Postgraduate",All,20,35,500000,All,All
